@@ -1,5 +1,6 @@
 
 111111112233
+<<<<<<< HEAD
 11111111
 [2015-10-06 14:56:36.351] <ERROR> [network] CWebParser::GetVLUpdateConfig(100) begin get GetVLUpdateConfig
 [2015-10-06 14:56:36.653] <ERROR> [network] CHttpPacketStreamer::GetPacketInfo(126) receive trucked data end
@@ -55,3 +56,6 @@
 [2015-10-13 20:13:58.206] <ERROR> [network] CWebParser::GetVLFolderData(183) begin get GetVLFolderData
 [2015-10-13 20:14:00.206] <ERROR> [network] CWebParser::GetVLFolderData(183) begin get GetVLFolderData
 222
+=======
+5555555555
+>>>>>>> refs/remotes/origin/dev
